@@ -1,5 +1,3 @@
-//ccccsssss
-//wawawawawaw
 // git test
 
 // 距離を計算する関数．
